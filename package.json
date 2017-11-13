@@ -1,7 +1,7 @@
 {
   "name": "vuegg-scaffold",
   "version": "1.0.0",
-  "description": "vuegg generation scaffold",
+  "description": "vue project scaffold",
   "author": "alxpez <alexperezdev@gmail.com>",
   "private": true,
   "scripts": {
