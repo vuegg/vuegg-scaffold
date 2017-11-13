@@ -1,6 +1,6 @@
 # vuegg-scaffold
 
-> vuegg project generation scaffold
+> vuegg project scaffold
 
 ## Build Setup
 
