@@ -1,4 +1,4 @@
-# vuegg-scaffold
+# {{PROJECT_TITLE}}
 
 > vuegg project scaffold
 

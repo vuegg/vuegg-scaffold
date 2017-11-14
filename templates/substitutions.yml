@@ -1,0 +1,22 @@
+README.md:
+  - PROJECT_TITLE: String
+
+package.json:
+  - PROJECT_TITLE: String
+
+index.hmtl:
+  - PROJECT_TITLE: String
+
+# Copy to src/router/index.js and replace the following
+templates/router/index.js:
+  - PAGES_IMPORTS: "import Page1 from '@/pages/Page1'"
+  - ROUTES_DECLARATIONS: "{ path: '/page1', name: 'Page 1', component: Page1 }"
+
+# Copy to src/{pages|components}/{name}.vue and replace the following
+templates/vue/default.vue:
+  - VUEGG_ID: String
+  - VUEGG_NAME: String
+  - VUEGG_CHILDREN: "<vuegg/>" # OPTIONAL
+  - VUEGG_STYLES: ".vuegg {/**/}" # OPTIONAL
+  - COMPONENTS_IMPORTS: "import Comp1 from '@/components/Comp1'" # OPTIONAL
+  - COMPONENTS_DECLARATIONS: ", components: { Comp1 }" # OPTIONAL
