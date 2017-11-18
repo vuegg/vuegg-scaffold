@@ -16,7 +16,7 @@ templates/router/index.js:
 templates/vue/default.vue:
   - VUEGG_ID: String
   - VUEGG_NAME: String
-  - VUEGG_CHILDREN: "<vuegg/>" # OPTIONAL
-  - VUEGG_STYLES: ".vuegg {/**/}" # OPTIONAL
+  - VUEGG_CHILDREN: "<vuegg></vuegg>" # OPTIONAL
+  - VUEGG_STYLES: "#vuegg {/**/}" # OPTIONAL
   - COMPONENTS_IMPORTS: "import Comp1 from '@/components/Comp1'" # OPTIONAL
   - COMPONENTS_DECLARATIONS: ", components: { Comp1 }" # OPTIONAL
