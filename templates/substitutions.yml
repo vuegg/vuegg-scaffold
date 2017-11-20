@@ -2,7 +2,7 @@ README.md:
   - PROJECT_TITLE: String
 
 package.json:
-  - PROJECT_TITLE: String
+  - PROJECT_NAME: String
 
 index.hmtl:
   - PROJECT_TITLE: String

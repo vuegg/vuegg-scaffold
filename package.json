@@ -1,5 +1,5 @@
 {
-  "name": "{{PROJECT_TITLE}}",
+  "name": "{{PROJECT_NAME}}",
   "version": "1.0.0",
   "description": "vue project scaffold",
   "author": "vuegg",
