@@ -1,4 +1,6 @@
-<template>{{VUEGG_CHILDREN}}
+<template>
+<div id="{{VUEGG_ID}}">{{VUEGG_CHILDREN}}
+</div>
 </template>
 
 <script>{{COMPONENTS_IMPORTS}}
