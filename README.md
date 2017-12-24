@@ -1,6 +1,6 @@
 # {{PROJECT_TITLE}}
 
-> vuegg project scaffold
+> A VUEGGenerated project
 
 ## Build Setup
 
