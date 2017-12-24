@@ -3,9 +3,14 @@ README.md:
 
 package.json:
   - PROJECT_NAME: String
+  - DEPENDENCIES: '"name": "version"' # OPTIONAL
 
 index.hmtl:
   - PROJECT_TITLE: String
+
+src/main.js:
+  - PACKAGES_IMPORTS: "import Package1 from 'package1'" # OPTIONAL
+  - PACKAGES_USE: "Vue.use(Package1)" # OPTIONAL
 
 # Copy to src/router/index.js and replace the following
 templates/router/index.js:
