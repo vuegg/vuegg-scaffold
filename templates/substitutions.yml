@@ -7,6 +7,8 @@ package.json:
 
 index.hmtl:
   - PROJECT_TITLE: String
+  - STYLE_IMPORTS: "<link rel="stylesheet" href="StyleImport.css" type="text/css">"
+  - SCRIPT_IMPORTS: "<script src="ScriptImport.js"></script>"
 
 src/main.js:
   - PACKAGES_IMPORTS: "import Package1 from 'package1'" # OPTIONAL
