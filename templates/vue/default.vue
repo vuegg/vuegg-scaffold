@@ -1,5 +1,5 @@
 <template>
-<{{PARENT_TAG}} id="{{VUEGG_ID}}">{{VUEGG_CHILDREN}}
+<{{PARENT_TAG}} id="{{VUEGG_ID}}"{{VUEGG_ATTRS}}>{{VUEGG_CHILDREN}}
 </{{PARENT_TAG}}>
 </template>
 

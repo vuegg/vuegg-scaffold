@@ -23,6 +23,7 @@ templates/router/index.js:
 templates/vue/default.vue:
   - PARENT_TAG: String
   - VUEGG_ID: String
+  - VUEGG_ATTRS: String
   - VUEGG_NAME: String
   - VUEGG_CHILDREN: "<vuegg></vuegg>" # OPTIONAL
   - VUEGG_STYLES: "#vuegg {/**/}" # OPTIONAL
